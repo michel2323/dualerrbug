@@ -12,7 +12,7 @@ prof=params.profiling
 ViolCost = params.ViolCost
 
 # Set here the number scenarios
-numScen=12544
+numScen=3
 
 
 
